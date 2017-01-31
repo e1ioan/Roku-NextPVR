@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "soapcred", "ConsoleApplication1\soapcred.oxygene", "{82F30BA6-5AEA-45CE-9C0D-D36529789DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F30BA6-5AEA-45CE-9C0D-D36529789DD2}.Debug|Default.ActiveCfg = Debug
+		{82F30BA6-5AEA-45CE-9C0D-D36529789DD2}.Debug|Default.Build.0 = Debug
+		{82F30BA6-5AEA-45CE-9C0D-D36529789DD2}.Release|Default.ActiveCfg = Release
+		{82F30BA6-5AEA-45CE-9C0D-D36529789DD2}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

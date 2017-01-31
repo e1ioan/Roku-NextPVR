@@ -1,0 +1,18 @@
+C:\Documents and Settings\ioang\My Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ioang\My Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\GenerateResource.read.573.tlog
+C:\Documents and Settings\ioang\My Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\GenerateResource.write.573.tlog
+C:\Documents and Settings\ioang\My Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\soapcred.exe
+C:\Documents and Settings\ioang\My Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\soapcred.pdb
+C:\Documents and Settings\ioang\My Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\soapcred.Properties.Resources.resources
+C:\Documents and Settings\ioang\My Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\soapcred.exe
+C:\Documents and Settings\ioang\My Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\soapcred.pdb
+G:\Programming\roku-server\ConsoleApplication1\ConsoleApplication1\bin\Debug\soapcred.exe
+G:\Programming\roku-server\ConsoleApplication1\ConsoleApplication1\bin\Debug\soapcred.pdb
+G:\Programming\roku-server\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\Programming\roku-server\ConsoleApplication1\ConsoleApplication1\obj\Debug\soapcred.Properties.Resources.resources
+G:\Programming\roku-server\ConsoleApplication1\ConsoleApplication1\obj\Debug\soapcred.exe
+G:\Programming\roku-server\ConsoleApplication1\ConsoleApplication1\obj\Debug\soapcred.pdb
+G:\Programming\roku-server\ConsoleApplication1\ConsoleApplication1\obj\Debug\GenerateResource.read.226.tlog
+G:\Programming\roku-server\ConsoleApplication1\ConsoleApplication1\obj\Debug\GenerateResource.write.226.tlog
+G:\Programming\roku-server\ConsoleApplication1\ConsoleApplication1\obj\Debug\GenerateResource.read.239.tlog
+G:\Programming\roku-server\ConsoleApplication1\ConsoleApplication1\obj\Debug\GenerateResource.write.239.tlog

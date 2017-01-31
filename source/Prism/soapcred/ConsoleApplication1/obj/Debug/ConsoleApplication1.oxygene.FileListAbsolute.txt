@@ -1,0 +1,8 @@
+c:\documents and settings\ioang\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\ioang\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+c:\documents and settings\ioang\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\documents and settings\ioang\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\documents and settings\ioang\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\documents and settings\ioang\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\documents and settings\ioang\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\GenerateResource.read.55.tlog
+c:\documents and settings\ioang\my documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\GenerateResource.write.55.tlog
